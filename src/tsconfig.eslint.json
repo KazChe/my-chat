@@ -1,0 +1,14 @@
+/*
+    We wanted to have separation between our code and our test code.
+    eslint would want to have one type of config that encompasses all
+    the code wwe wanted lint'd. we're goinf to use jest for testing,
+    so we;re gooing to give elint it's config file for jest type.
+*/
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "types": ["jest"]
+    },
+    "include": ["src", "test"]
+
+}
