@@ -1,0 +1,2 @@
+## This is a clone of mike-north's repo
+- Follow steps from his [repo](https://github.com/mike-north/professional-ts) and [Mike's notes here](https://github.com/mike-north/professional-ts/tree/master/notes)
